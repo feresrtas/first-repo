@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## GitHub Sayfama Hoşgeldiniz    -   Şeref Demirtaş
 
 You can use the [editor on GitHub](https://github.com/feresrtas/first-repo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
